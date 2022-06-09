@@ -3,8 +3,11 @@ import "./header.css"
 function Header() {
   return (
     <>
+            <h2 className="project-name text-center">Track zone</h2>
       <div className="header">
         <div className="container">
+          <div className="row">
+          </div>
           <div className="row d-flex">
             <div className="col-lg-4">
               <div className="user-profile">
@@ -12,13 +15,8 @@ function Header() {
                 <h2 className="user-name">Demo User</h2>
                 <p>demo time zoon</p>
               </div>
-            </div>
-                <div className="col-lg-4">
-                    <div className="app-name">
-                        <h1>Track Zone</h1>
-                    </div>
-                </div>
-            <div className="col-lg-4">
+            </div>            
+            <div className="col-lg-8">
               <div className="clock ">
                 <div className="time d-flex">
                   <div className="hour"><p>02:</p></div>

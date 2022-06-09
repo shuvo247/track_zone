@@ -1,0 +1,25 @@
+.clock-list {
+    box-shadow: 0px 0px 7px #ddd;
+    padding: 10px 5px 10px 10px;
+    margin-bottom: 10px;
+}
+.eventlist-wrap{
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    padding: 0 20px;
+}
+.event-form {
+    
+    padding-left: 20px;
+}
+.clock-wrap{
+    padding: 5px;
+}
+.event-list {
+    padding: 10px 5px;
+    box-shadow: 0px 0px 7px #ddd;
+    margin-bottom: 10px;
+}
+.main {
+    padding-top: 50px;
+}
